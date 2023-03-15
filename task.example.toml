@@ -1,0 +1,13 @@
+
+[sys]
+host  = "127.0.0.1"
+port  = "1234"
+
+[db]
+dbpath   = './tasks.sql'
+username = ''
+password = ''
+
+[log]
+level   = debug
+logpath = "./log/"
